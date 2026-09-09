@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Yugoynn 👋</h1>
 <h3 align="center">Estudante de Cybersecurity (Blue Team / SOC) &amp; Desenvolvedor Full Stack</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Blue+Team+%7C+SOC+em+forma%C3%A7%C3%A3o;Full+Stack+Developer;JavaScript+%7C+Python+%7C+Node.js;Analisando+logs+e+ca%C3%A7ando+amea%C3%A7as+%F0%9F%94%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Blue+Team+%7C+SOC;Full+Stack+Developer;JavaScript+%7C+Python+%7C+Node.js;Analisando+logs+e+ca%C3%A7ando+amea%C3%A7as+%F0%9F%94%8D" alt="Typing SVG" />
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/yugoynn" target="_blank">
