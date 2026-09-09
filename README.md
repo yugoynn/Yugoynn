@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:FF0000,100:0D1117&height=220&section=header&text=Këkht%20Aräkh&fontSize=70&fontColor=000000&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Security%20Researcher&descAlignY=60&descAlign=50&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:FF0000,100:0D1117&height=220&section=header&text=Yugoynn&fontSize=70&fontColor=000000&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Security%20Researcher&descAlignY=60&descAlign=50&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=FF0000&center=true&vCenter=true&multiline=false&width=700&lines=Full+Stack+Developer+%26+Security+Analisty;Penetration+Tester+%7C+Open+Source+Contributor;Building+secure+things+one+commit+at+a+time...;%24+whoami+%E2%86%92+serozr)](https://github.com/serozr)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=FF0000&center=true&vCenter=true&multiline=false&width=700&lines=Full+Stack+Developer+%26+Security+Analisty;Penetration+Tester+%7C+Open+Source+Contributor;Building+secure+things+one+commit+at+a+time...;%24+whoami+%E2%86%92+yugoynn)](https://github.com/yugoynn)
 
 <br/>
 
