@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:FF0000,100:0D1117&height=220&section=header&text=Këkht%20Aräkh&fontSize=70&fontColor=000000&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Security%20Researcher&descAlignY=60&descAlign=50&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:FF0000,100:0D1117&height=230&section=header&text=Këkht%20Aräkh&fontSize=70&fontColor=000000&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Security%20Researcher&descAlignY=60&descAlign=50&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&multiline=false&width=700&lines=Full+Stack+Developer+%26+Security+Researcher;Penetration+Tester+%7C+Open+Source+Contributor;Building+secure+things+one+commit+at+a+time...;%24+whoami+%E2%86%92+serozr)](https://github.com/serozr)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=FF0000&center=true&vCenter=true&multiline=false&width=700&lines=Full+Stack+Developer+%26+Security+Analisty;Penetration+Tester+%7C+Open+Source+Contributor;Building+secure+things+one+commit+at+a+time...;%24+whoami+%E2%86%92+serozr)](https://github.com/serozr)
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=serozr&color=00FF41&style=flat-square&label=👁️+Profile+Views)](https://github.com/serozr)
-[![GitHub followers](https://img.shields.io/github/followers/serozr?label=Followers&style=flat-square&color=00FF41&labelColor=0D1117)](https://github.com/serozr?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/serozr?label=Total%20Stars&style=flat-square&color=00FF41&labelColor=0D1117)](https://github.com/serozr)
+[![Profile Views](https://komarev.com/ghpvc/?username=serozr&FF0000&style=flat-square&label=👁️+Profile+Views)](https://github.com/serozr)
+[![GitHub followers](https://img.shields.io/github/followers/serozr?label=Followers&style=flat-square&color=FF0000&labelColor=0D1117)](https://github.com/serozr?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/serozr?label=Total%20Stars&style=flat-square&color=FF0000&labelColor=0D1117)](https://github.com/serozr)
 
 </div>
 
@@ -26,15 +26,14 @@ const serozr = {
   technologies: {
     frontEnd:  ["React", "Next.js", "Vue.js", "Tailwind CSS"],
     backEnd:   ["Node.js", "Express", "FastAPI", "REST APIs"],
-    databases: ["MongoDB", "MySQL", "PostgreSQL"],
-    security:  ["Penetration Testing", "Web Security", "Network Analysis"],
+    databases: ["MySQL", "PostgreSQL"],
+    security:  ["Web Security", "Network Analysis", "SOC"],
     devOps:    ["Docker", "Git", "Linux", "CI/CD"],
-    tools:     ["VS Code", "Burp Suite", "Wireshark", "Metasploit"],
+    tools:     ["VS Code", "Burp Suite", "Wireshark", "Metasploit"]
   },
-  currentFocus: "🔐 Open Source Security Projects",
+  currentFocus: "🔐 My open source security projects",
   learning:     ["AI/ML Security", "Cloud Security (AWS/GCP)", "Reverse Engineering"],
-  funFact:      "I find bugs in systems before the bad guys do 🐛",
-  openToWork:   true,
+  openToWork:   true
 };
 ```
 
