@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=serozr&FF0000&style=flat-square&label=👁️+Profile+Views)](https://github.com/serozr)
+[![Profile Views](https://komarev.com/ghpvc/?username=yugoynn&FF0000&style=flat-square&label=👁️+Profile+Views)](https://github.com/yugoynn)
 [![GitHub followers](https://img.shields.io/github/followers/serozr?label=Followers&style=flat-square&color=FF0000&labelColor=0D1117)](https://github.com/serozr?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/serozr?label=Total%20Stars&style=flat-square&color=FF0000&labelColor=0D1117)](https://github.com/serozr)
 
